@@ -76,15 +76,11 @@
 .action-section {
   display: flex;
   align-items: center;
-
   justify-content: space-between;
-
   margin: 70px 70px;
-
   height: 300px;
   border-radius: 10px;
   background-color: rgba(93, 172, 146, 0.701);
-
   box-shadow: 10px 10px 20px rgba(93, 172, 146, 1.701);
 }
 .action-text {
@@ -101,13 +97,11 @@
 .action-img img {
   width: 250px;
   margin: 20px 40px 40px 0px;
-
   border-radius: 10px;
 }
 /* Productive Users Section */
 .productive-user-section {
   background-color: #4d47ff2d;
-
   margin: 70px 70px;
   border-radius: 10px;
 }
