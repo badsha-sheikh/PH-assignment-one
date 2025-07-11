@@ -53,7 +53,7 @@ font-weight: 600;
 /* Header section */
 
 .header-section {
-  background-image: url(/Images/Hero-bg.png);
+  background-image: url(Images/Hero-bg.png);
 }
 .nav-bar {
   display: flex;
