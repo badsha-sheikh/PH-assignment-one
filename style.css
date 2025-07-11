@@ -13,6 +13,7 @@
   font-weight: 500;
   border-radius: 5px;
   border: none;
+  text-align: center;
 }
 .web-font {
   color: #ffffff;
@@ -163,4 +164,25 @@ padding: 3px;
 
 .feedback-person-img-1 img{
 border-radius: 50%;
+}
+/* Focus-section */
+.extra-focus-section{
+  margin: 70px 70px;
+ 
+  text-align: center;
+  border-radius: 10px;
+  
+}
+.focus-section-img img{
+width: 500px;
+height: 200px;
+border-radius: 10px;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+.focus-litle p{
+  padding: 10px 0px;
+}
+.focus-litle{
+  padding-top: 20px;
 }
